@@ -7,7 +7,7 @@
     "start": "nodemon server.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Hoang Phung",
   "license": "ISC",
   "dependencies": {
     "@sendgrid/mail": "^6.4.0",
